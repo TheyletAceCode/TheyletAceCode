@@ -68,13 +68,16 @@ Some of the technologies and services in my homelab include:
 
 ## 📂 Featured Projects
 
-### Personal Homelab Infrastructure
+### [Personal Homelab Infrastructure](https://github.com/TheyletAceCode/homelab-infrastructure)
 
-A multi-device homelab built to develop practical experience with Linux,
-Docker, networking, cybersecurity, service availability, remote access,
-storage, and application administration.
+A Docker-based homelab running on a Beelink Mini S and Raspberry Pi 5.
+The environment includes Linux administration, private Tailscale access,
+Pi-hole DNS filtering, VPN routing, service monitoring, personal cloud
+applications, and self-hosted media services.
 
-**Documentation coming soon.**
+The project documentation covers architecture, hardware, containerized
+services, networking, security controls, troubleshooting, and planned
+improvements.
 
 ### Cybersecurity Virtual Lab
 
